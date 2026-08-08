@@ -18,8 +18,8 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install packages
-        run: npm install
+      #- name: Install packages
+      #  run: npm install
 
       #- name: run the test
       #  run: npm run test
