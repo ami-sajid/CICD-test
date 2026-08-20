@@ -53,7 +53,6 @@ jobs:
             git pull
             pm2 restart all
             sudo systemctl restart nginx
-            pwd
 
 
         
